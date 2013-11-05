@@ -1,0 +1,67 @@
+body {
+  background-image: url('../images/jet-sky.jpg');
+  background-size: cover;
+}
+
+h1 {
+  font-family: "futura-pt",sans-serif;
+}
+
+p {
+  font-family: "ff-tisa-web-pro",serif;
+}
+
+a {
+  color: #75ADDD;
+}
+
+a:hover {
+  color: #F1C960;
+  text-decoration: none;
+}
+
+.about-text {
+  font-family: "ff-tisa-web-pro",serif;
+  font-size: 20px;
+}
+
+
+
+.wrapper {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.content {
+  background: white;
+  padding: 20px;
+  border: 3px solid black;
+  margin-top: 80px;
+}
+
+.center {
+  text-align: center;
+}
+
+.black-divider {
+  height: 2px;
+  background-color: black;
+  width: 300px;
+  margin: 30px auto;
+}
+
+.centered-pills { 
+  text-align:center;
+  font-family: "ff-tisa-web-pro",serif;
+  font-size: 16px;
+}
+
+.centered-pills ul.nav-pills { display:inline-block; }
+.centered-pills li { display:inline; }
+.centered-pills a { float:left; }
+* html .centered-pills ul.nav-pills { display:inline; } /* IE6 */
+*+html .centered-pills ul.nav-pills { display:inline; } /* IE7 */
+
+h1 {
+  font-size: 46px;
+}
