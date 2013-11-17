@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-11-05 12:35:55
+title:  "My favorite movie is Titanic"
+date:   2013-10-30 21:53:49
 categories: jekyll update
 ---
 

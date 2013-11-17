@@ -1,0 +1,38 @@
+span.list-post-date {
+  padding: 8px 6px;
+  color: #4A4A4A;
+}
+
+.posts {
+  padding-top: 35px;
+}
+
+a.post-list-title {
+  font-size: 18px;
+  padding-left: 12px;
+  color: #4A4A4A;
+}
+
+a.post-list-title:hover {
+  color: #F1C960;
+}
+
+#A7ADE6 {
+  background-color: #A7ADE6;
+}
+
+#B1F6F6 {
+  background-color: #B1F6F6;
+}
+
+#FDF592 {
+  background-color: #FDF592;
+}
+
+#EA8280 {
+  background-color: #EA8280;
+}
+
+#C2F8A8 {
+  background-color: #C2F8A8;
+}

@@ -1,6 +1,11 @@
 body {
-  background-image: url('../images/jet-sky.jpg');
+  background-image: url("../images/jet-sky.jpg");
   background-size: cover;
+}
+
+.site {
+  background-color: white;
+  padding: 55px 30px;
 }
 
 h1 {
@@ -25,18 +30,9 @@ a:hover {
   font-size: 20px;
 }
 
-
-
 .wrapper {
   max-width: 720px;
   margin: 0 auto;
-}
-
-.content {
-  background: white;
-  padding: 20px;
-  border: 3px solid black;
-  margin-top: 80px;
 }
 
 .center {
@@ -64,4 +60,8 @@ a:hover {
 
 h1 {
   font-size: 46px;
+}
+
+.inline {
+  display: inline-block;
 }
